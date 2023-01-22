@@ -46,6 +46,10 @@ sections:
     content:
       title: Skills
       items:
+        - name: C++
+          description: 
+          icon: computer-classic
+          icon_pack: fab
         - name: Python
           description: 
           icon: python
