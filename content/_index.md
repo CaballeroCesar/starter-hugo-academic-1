@@ -74,6 +74,10 @@ sections:
           description: 
           icon: microsoft
           icon_pack: fab
+        - name: GitHub
+          description: 
+          icon: github
+          icon_pack: fab
         - name: GIS
           description: 
           icon: map-location-dot
