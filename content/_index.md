@@ -20,9 +20,9 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-          - name: Python
+          - name: GIS
           description: 90%
-          icon: python
+          icon: globe-stand
           icon_pack: fab
         - name: Statistics
           description: 100%
