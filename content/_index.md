@@ -16,6 +16,10 @@ sections:
     content:
       title: Skills
       items:
+        - name: C++
+          description: 80%
+          icon: cplusplus-plain
+          icon_pack: devicon
         - name: R
           description: 90%
           icon: r-project
