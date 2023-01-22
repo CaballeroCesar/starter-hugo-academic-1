@@ -61,7 +61,7 @@ sections:
         - name: GIS
           description: 
           icon: map-location-dot
-          icon_pack: fab
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
