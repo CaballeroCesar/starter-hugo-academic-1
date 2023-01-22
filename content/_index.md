@@ -97,7 +97,7 @@ sections:
         - title: GIS Technician
           company: City of Elgin
           company_url: 'https://www.cityofelgin.org/'
-          company_logo: <img src="https://www.dailyherald.com/storyimage/DA/20100525/news/305259945/AR/0/AR-305259945.jpg&updated=201005242300&MaxW=900&maxH=900&noborder&Q=80" alt="City of Elgin logo" width="100" height="100">
+          company_logo: coe
           location: Elgin, IL
           date_start: '2022-01-03'
           date_end: ''
