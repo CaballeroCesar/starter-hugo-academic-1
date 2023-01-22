@@ -42,7 +42,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: education
+  - block: experience
     content:
       title: Education
       # Date format for experience
