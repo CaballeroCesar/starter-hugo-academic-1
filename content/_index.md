@@ -61,7 +61,7 @@ sections:
         - name: GIS
           description: 
           icon: globe-stand
-          icon_pack: fab
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
