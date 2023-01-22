@@ -116,6 +116,14 @@ sections:
           location: Carpentersville, IL
           date_start: '2019-01-01'
           date_end: ''
+          description:
+        - title: Shift Leader
+          company: Dairy Queen
+          company_url: 'https://www.dairyqueen.com/en-us/'
+          company_logo: DQ
+          location: Elgin, IL
+          date_start: '2016-03-01'
+          date_end: '2021-04-01'
           description: 
     design:
       columns: '2'
