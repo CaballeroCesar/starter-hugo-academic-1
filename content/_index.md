@@ -84,7 +84,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -94,37 +94,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: GIS Technician
-          company: City of Elgin
-          company_url: 'https://www.cityofelgin.org/'
+        - title: B.S. in Computer Science
+          company: Northern Illinois University
+          company_url: 'https://www.niu.edu/index.shtml'
           company_logo: coe
-          location: Elgin, IL
-          date_start: '2022-01-03'
+          location: Dekalb, IL
+          date_start: '2021-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Collaborate with GIS Specialist to learn Python programming language
-              * Interpret and annotate engineering plans to digitize the city’s water distribution system in ArcMap
-              * Conduct monthly peer reviews of utility data for quality assurance/ quality control purposes
-              * Attend regular meetings with the water department to discuss any unresolved utility data questions
-              * Participate in weekly field verifications for quality assurance/ quality control of mapped utility data
-        - title: Sales Associate
-          company: Menards
-          company_url: 'https://www.menards.com/main/home.html'
+        - title: A.S. with Honors
+          company: Elgin Community College
+          company_url: 'https://elgin.edu/'
           company_logo: menards
-          location: Carpentersville, IL
-          date_start: '2019-01-01'
-          date_end: ''
-          description:
-        - title: Shift Leader
-          company: Dairy Queen
-          company_url: 'https://www.dairyqueen.com/en-us/'
-          company_logo: DQ
           location: Elgin, IL
-          date_start: '2016-03-01'
-          date_end: '2021-04-01'
-          description: 
+          date_start: '2018-08-01'
+          date_end: '2020-12-01'
+          description:
     design:
       columns: '2'
   - block: experience
