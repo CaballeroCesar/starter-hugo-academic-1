@@ -66,6 +66,10 @@ sections:
           description: 
           icon: linux
           icon_pack: fab
+        - name: Microsoft Office Suite
+          description: 
+          icon: microsoft
+          icon_pack: fab
         - name: GIS
           description: 
           icon: map-location-dot
