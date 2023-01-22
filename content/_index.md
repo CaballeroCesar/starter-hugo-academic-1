@@ -54,6 +54,10 @@ sections:
           description: 
           icon: html5
           icon_pack: fab
+        - name: PHP
+          description: 
+          icon: php
+          icon_pack: fab
         - name: SQL
           description: 
           icon: database
