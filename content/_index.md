@@ -127,6 +127,18 @@ sections:
           description: 
     design:
       columns: '2'
+  - block: education
+    content:
+      title: Education
+      items:
+        - title: Bachelor of Science in Computer Science
+          institution: XYZ University
+          location: XYZ City
+          date_start: '2018-01-01'
+          date_end: '2022-12-31'
+          description: |2-
+              Degree earned with a focus on software development and GIS.
+
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. Accomplish&shy;ments
@@ -166,17 +178,6 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: education
-  content:
-    title: Education
-    items:
-      - title: Bachelor of Science in Computer Science
-        institution: XYZ University
-        location: XYZ City
-        date_start: '2018-01-01'
-        date_end: '2022-12-31'
-        description: |2-
-            Degree earned with a focus on software development and GIS.
 
   # - block: collection
   #   id: posts
