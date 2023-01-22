@@ -52,7 +52,7 @@ sections:
           icon_pack: fab
         - name: HTML
           description: 
-          icon: code
+          icon: html5
           icon_pack: fab
         - name: SQL
           description: 
