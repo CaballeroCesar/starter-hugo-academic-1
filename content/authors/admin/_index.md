@@ -1,7 +1,7 @@
 ---
 title: Cesar Caballero
 role: Computer Science Student
-avatar_filename: code-coder-codes-2194062-1.jpg
+avatar_filename: icon.png
 bio: ""
 interests:
   - Artificial Intelligence
