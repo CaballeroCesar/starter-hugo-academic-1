@@ -50,18 +50,18 @@ sections:
           description: 
           icon: python
           icon_pack: fab
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: HTML
+          description: 
+          icon: code
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: SQL
+          description: 
+          icon: database
+          icon_pack: fab
+        - name: GIS
+          description: 
+          icon: globe-stand
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
