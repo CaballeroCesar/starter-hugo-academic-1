@@ -56,8 +56,8 @@ sections:
           icon_pack: fab
         - name: SQL
           description: 
-          icon: solid-database
-          icon_pack: fab
+          icon: database
+          icon_pack: fas
         - name: GIS
           description: 
           icon: globe-stand
