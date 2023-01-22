@@ -3,10 +3,7 @@ title: Cesar Caballero
 role: Computer Science Student
 avatar_filename: icon.png
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
