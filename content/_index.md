@@ -48,8 +48,8 @@ sections:
       items:
         - name: C++
           description: 
-          icon: computer-classic
-          icon_pack: fas
+          icon: terminal
+          icon_pack: fab
         - name: Python
           description: 
           icon: python
