@@ -61,7 +61,7 @@ sections:
       items:
         - name: C++
           description: 
-          icon: terminal
+          icon: 
           icon_pack: fas
         - name: Python
           description: 
