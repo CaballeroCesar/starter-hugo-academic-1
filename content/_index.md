@@ -42,19 +42,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-      
-  - block: education
-    content:
-      title: Education
-      items:
-        - title: Bachelor of Science in Computer Science
-          institution: XYZ University
-          location: XYZ City
-          date_start: '2018-01-01'
-          date_end: '2022-12-31'
-          description: |2-
-              Degree earned with a focus on software development and GIS.
-
   - block: features
     content:
       title: Skills
