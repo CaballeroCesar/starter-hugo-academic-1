@@ -60,8 +60,8 @@ sections:
           icon_pack: fas
         - name: GIS
           description: 
-          icon: globe-stand
-          icon_pack: fal
+          icon: map-location-dot
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
