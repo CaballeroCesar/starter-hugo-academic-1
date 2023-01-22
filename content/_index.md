@@ -109,14 +109,14 @@ sections:
               * Conduct monthly peer reviews of utility data for quality assurance/ quality control purposes
               * Attend regular meetings with the water department to discuss any unresolved utility data questions
               * Participate in weekly field verifications for quality assurance/ quality control of mapped utility data
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Sales Associate
+          company: Menards
+          company_url: 'https://www.menards.com/main/home.html'
+          company_logo: menards
+          location: Carpentersville, IL
+          date_start: '2019'
+          date_end: ''
+          description: 
     design:
       columns: '2'
   - block: accomplishments
