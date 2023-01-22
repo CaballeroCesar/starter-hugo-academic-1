@@ -45,8 +45,8 @@ sections:
           company_url: 'https://www.cityofelgin.org/'
           company_logo: org-gc
           location: Elgin, IL
-          date_start: 'January 2022'
-          date_end: 'Present'
+          date_start: '2022'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
