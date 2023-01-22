@@ -127,46 +127,91 @@ sections:
           description: 
     design:
       columns: '2'
-
-  - block: accomplishments
+  - block: experience
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. Accomplish&shy;ments
-      title: 'Education'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: GIS Technician
+          company: City of Elgin
+          company_url: 'https://www.cityofelgin.org/'
+          company_logo: coe
+          location: Elgin, IL
+          date_start: '2022-01-03'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Collaborate with GIS Specialist to learn Python programming language
+              * Interpret and annotate engineering plans to digitize the city’s water distribution system in ArcMap
+              * Conduct monthly peer reviews of utility data for quality assurance/ quality control purposes
+              * Attend regular meetings with the water department to discuss any unresolved utility data questions
+              * Participate in weekly field verifications for quality assurance/ quality control of mapped utility data
+        - title: Sales Associate
+          company: Menards
+          company_url: 'https://www.menards.com/main/home.html'
+          company_logo: menards
+          location: Carpentersville, IL
+          date_start: '2019-01-01'
+          date_end: ''
+          description:
+        - title: Shift Leader
+          company: Dairy Queen
+          company_url: 'https://www.dairyqueen.com/en-us/'
+          company_logo: DQ
+          location: Elgin, IL
+          date_start: '2016-03-01'
+          date_end: '2021-04-01'
+          description: 
+    design:
+      columns: '2'
+
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. Accomplish&shy;ments
+  #     title: 'Education'
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: 
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: B.S in Computer Science
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
+    #   items:
+    #     - certificate_url: 
+    #       date_end: ''
+    #       date_start: '2021-01-25'
+    #       description: ''
+    #       organization: Coursera
+    #       organization_url: https://www.coursera.org
+    #       title: B.S in Computer Science
+    #       url: ''
+    #     - certificate_url: https://www.edx.org
+    #       date_end: ''
+    #       date_start: '2021-01-01'
+    #       description: Formulated informed blockchain models, hypotheses, and use cases.
+    #       organization: edX
+    #       organization_url: https://www.edx.org
+    #       title: Blockchain Fundamentals
+    #       url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    #     - certificate_url: https://www.datacamp.com
+    #       date_end: '2020-12-21'
+    #       date_start: '2020-07-01'
+    #       description: ''
+    #       organization: DataCamp
+    #       organization_url: https://www.datacamp.com
+    #       title: 'Object-Oriented Programming in R'
+    #       url: ''
+    # design:
+    #   columns: '2'
 
   # - block: collection
   #   id: posts
