@@ -141,14 +141,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
+        - certificate_url: https://www.niu.edu/index.shtml
           date_end: ''
           date_start: '2021-08-01'
           description: ''
           organization: Northern Illinois University
           organization_url: https://www.niu.edu/index.shtml
           title: B.S. in Computer Science
-          url: 'https://th.bing.com/th/id/R.15528359e055997bf90e9eb447cc511e?rik=BXB5NSlBw2d1sg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-XCoucza0U38%2fTjXq9F6F_qI%2fAAAAAAAAB1s%2ffhJ2oOHvPMw%2fs500%2fNorthern%2bIllinois%2bUniversity%2bmark%2b2011.png&ehk=DgpRgYrpt%2bqkySkeqesJGBP8AsC8BtB91UfQb4%2fYb4Y%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1'
+          url: 'https://www.niu.edu/index.shtml'
         - certificate_url: 
           date_end: '2020-12-01'
           date_start: '2018-08-01'
