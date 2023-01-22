@@ -42,6 +42,37 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  - block: education
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: B.S. in Computer Science
+          company: Northern Illinois University
+          company_url: 'https://www.niu.edu/index.shtml'
+          company_logo: NIU
+          location: Dekalb, IL
+          date_start: '2021-08-01'
+          date_end: ''
+          description: |2-
+
+        - title: A.S. with Honors
+          company: Elgin Community College
+          company_url: 'https://elgin.edu/'
+          company_logo: ECC
+          location: Elgin, IL
+          date_start: '2018-08-01'
+          date_end: '2020-12-01'
+          description:
+    design:
+      columns: '2'
   - block: features
     content:
       title: Skills
@@ -82,37 +113,6 @@ sections:
           description: 
           icon: map-location-dot
           icon_pack: fas
-  - block: experience
-    content:
-      title: Education
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: B.S. in Computer Science
-          company: Northern Illinois University
-          company_url: 'https://www.niu.edu/index.shtml'
-          company_logo: NIU
-          location: Dekalb, IL
-          date_start: '2021-08-01'
-          date_end: ''
-          description: |2-
-
-        - title: A.S. with Honors
-          company: Elgin Community College
-          company_url: 'https://elgin.edu/'
-          company_logo: ECC
-          location: Elgin, IL
-          date_start: '2018-08-01'
-          date_end: '2020-12-01'
-          description:
-    design:
-      columns: '2'
   - block: experience
     content:
       title: Experience
