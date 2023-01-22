@@ -49,7 +49,7 @@ sections:
         - name: C++
           description: 
           icon: computer-classic
-          icon_pack: fab
+          icon_pack: fas
         - name: Python
           description: 
           icon: python
