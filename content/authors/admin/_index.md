@@ -38,7 +38,8 @@ email: caballero_c@outlook.com
 ---
 <!--StartFragment-->
 
-Currently a student at Northern Illinois university pursing a bachelors degree in Computer Science. I am interested in Geographic Information Systems and all things tech!
+Currently a student at Northern Illinois University pursing a bachelors degree in Computer Science. I am interested in Geographic Information Systems and all things tech!
 
 <!--EndFragment-->
+
 {style="text-align: justify;"}
