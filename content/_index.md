@@ -20,10 +20,6 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-          - name: GIS
-          description: 90%
-          icon: globe-stand
-          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
