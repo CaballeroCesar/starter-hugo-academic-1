@@ -16,6 +16,10 @@ sections:
     content:
       title: Skills
       items:
+        - name: Python
+          description: 80%
+          icon: python
+          icon_pack: fab
         - name: R
           description: 90%
           icon: r-project
