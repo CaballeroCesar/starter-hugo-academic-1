@@ -94,19 +94,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: GIS Technician
+          company: City of Elgin
+          company_url: 'https://www.cityofelgin.org/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Elgin, IL
+          date_start: '2022-01-03'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Collaborate with GIS Specialist to learn Python programming language
+              * Interpret and annotate engineering plans to digitize the city’s water distribution system in ArcMap
+              * Conduct monthly peer reviews of utility data for quality assurance/ quality control purposes
+              * Attend regular meetings with the water department to discuss any unresolved utility data questions
+              * Participate in weekly field verifications for quality assurance/ quality control of mapped utility data
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
