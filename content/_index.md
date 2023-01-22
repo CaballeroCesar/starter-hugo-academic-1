@@ -62,6 +62,10 @@ sections:
           description: 
           icon: database
           icon_pack: fas
+        - name: Linux
+          description: 
+          icon: linux
+          icon_pack: fab
         - name: GIS
           description: 
           icon: map-location-dot
