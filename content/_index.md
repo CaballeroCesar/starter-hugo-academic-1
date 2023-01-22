@@ -114,7 +114,7 @@ sections:
           company_url: 'https://www.menards.com/main/home.html'
           company_logo: menards
           location: Carpentersville, IL
-          date_start: '2019'
+          date_start: '2019-01-01'
           date_end: ''
           description: 
     design:
