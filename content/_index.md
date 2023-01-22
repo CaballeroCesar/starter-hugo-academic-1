@@ -97,7 +97,7 @@ sections:
         - title: B.S. in Computer Science
           company: Northern Illinois University
           company_url: 'https://www.niu.edu/index.shtml'
-          company_logo: coe
+          company_logo: NIU
           location: Dekalb, IL
           date_start: '2021-08-01'
           date_end: ''
@@ -106,7 +106,7 @@ sections:
         - title: A.S. with Honors
           company: Elgin Community College
           company_url: 'https://elgin.edu/'
-          company_logo: menards
+          company_logo: ECC
           location: Elgin, IL
           date_start: '2018-08-01'
           date_end: '2020-12-01'
