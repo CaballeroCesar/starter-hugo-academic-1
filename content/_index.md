@@ -22,7 +22,7 @@ sections:
           icon_pack: fab
           - name: Python
           description: 90%
-          icon: python-project
+          icon: python
           icon_pack: fab
         - name: Statistics
           description: 100%
