@@ -1,6 +1,6 @@
 ---
 title: Cesar Caballero
-role: Computer Science student at Northern Illinois University
+role: Computer Science Student
 avatar_filename: https://static.wixstatic.com/media/nsplsh_637642424f34507a575067~mv2_d_5688_3713_s_4_2.jpg/v1/crop/x_988,y_0,w_3713,h_3713/fill/w_175,h_175,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image%20by%20Markus%20Spiske.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northern Illinois University
+    url: https://www.cs.niu.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
