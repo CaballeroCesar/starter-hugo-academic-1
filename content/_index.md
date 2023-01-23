@@ -107,8 +107,8 @@ sections:
           icon_pack: fab
         - name: Microsoft Office Suite
           description: 
-          icon: microsoft
-          icon_pack: fab
+          icon: office
+          icon_pack: custom
         - name: GitHub
           description: 
           icon: github
