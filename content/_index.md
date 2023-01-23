@@ -77,10 +77,14 @@ sections:
     content:
       title: Skills
       items:
+        # - name: C++
+        #   description: 
+        #   icon: terminal
+        #   icon_pack: fas
         - name: C++
           description: 
-          icon: terminal
-          icon_pack: fas
+          icon: c++
+          icon_pack: custom
         - name: Python
           description: 
           icon: python
