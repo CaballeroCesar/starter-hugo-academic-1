@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Cesar Caballero # Website name
-baseURL: 'https://caballerocesar.github.io/' # Website URL
+baseURL: 'http://caballerocesar.com/' # Website URL
 
 ############################
 ## LANGUAGE
