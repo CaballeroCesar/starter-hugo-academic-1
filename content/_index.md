@@ -137,13 +137,13 @@ sections:
           date_start: '2022-01-03'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              # Responsibilities include:
 
-              * Collaborate with GIS Specialist to learn Python programming language
-              * Interpret and annotate engineering plans to digitize the city’s water distribution system in ArcMap
-              * Conduct monthly peer reviews of utility data for quality assurance/ quality control purposes
-              * Attend regular meetings with the water department to discuss any unresolved utility data questions
-              * Participate in weekly field verifications for quality assurance/ quality control of mapped utility data
+              # * Collaborate with GIS Specialist to learn Python programming language
+              # * Interpret and annotate engineering plans to digitize the city’s water distribution system in ArcMap
+              # * Conduct monthly peer reviews of utility data for quality assurance/ quality control purposes
+              # * Attend regular meetings with the water department to discuss any unresolved utility data questions
+              # * Participate in weekly field verifications for quality assurance/ quality control of mapped utility data
         - title: Sales Associate
           company: Menards
           company_url: 'https://www.menards.com/main/home.html'
