@@ -105,7 +105,7 @@ sections:
           description: 
           icon: linux
           icon_pack: fab
-        - name: Microsoft Office Suite
+        - name: Microsoft Office
           description: 
           icon: office
           icon_pack: custom
