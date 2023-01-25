@@ -136,7 +136,7 @@ sections:
           location: Elgin, IL
           date_start: '2022-01-03'
           date_end: ''
-          description: |2-
+          description: #|2-
               # Responsibilities include:
 
               # * Collaborate with GIS Specialist to learn Python programming language
