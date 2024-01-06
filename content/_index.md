@@ -129,6 +129,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: ITS STEM Fellow
+          company: City of Elgin
+          company_url: 'https://www.cityofelgin.org/'
+          company_logo: coe
+          location: Elgin, IL
+          date_start: '2024-12-03'
+          date_end: ''
+          description: #|2-
         - title: GIS Intern
           company: City of Elgin
           company_url: 'https://www.cityofelgin.org/'
