@@ -135,7 +135,7 @@ sections:
           company_logo: coe
           location: Elgin, IL
           date_start: '2022-01-03'
-          date_end: '2024-01-01'
+          date_end: '2023-12-01'
           description: #|2-
               # Responsibilities include:
 
