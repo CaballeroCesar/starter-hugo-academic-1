@@ -1,6 +1,6 @@
 ---
 title: Cesar Caballero
-role: Computer Science Student
+role: Web Developer
 avatar_filename: icon.png
 bio: ""
 interests: []
@@ -38,7 +38,6 @@ email: caballero_c@outlook.com
 ---
 <!--StartFragment-->
 
-Currently a student at Northern Illinois University pursing a bachelors degree in Computer Science. I am interested in Geographic Information Systems and all things tech!
 
 <!--EndFragment-->
 
