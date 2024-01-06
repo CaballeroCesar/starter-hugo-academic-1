@@ -129,28 +129,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: GIS Technician
+        - title: GIS Intern
           company: City of Elgin
           company_url: 'https://www.cityofelgin.org/'
           company_logo: coe
           location: Elgin, IL
           date_start: '2022-01-03'
-          date_end: ''
+          date_end: '2024-01-01'
           description: #|2-
               # Responsibilities include:
 
-              # * Collaborate with GIS Specialist to learn Python programming language
               # * Interpret and annotate engineering plans to digitize the city’s water distribution system in ArcMap
+              # * Perform georeferencing, data creation, and editing on all the city’s water utility data
               # * Conduct monthly peer reviews of utility data for quality assurance/ quality control purposes
               # * Attend regular meetings with the water department to discuss any unresolved utility data questions
-              # * Participate in weekly field verifications for quality assurance/ quality control of mapped utility data
         - title: Sales Associate
           company: Menards
           company_url: 'https://www.menards.com/main/home.html'
           company_logo: menards
           location: Carpentersville, IL
           date_start: '2019-01-01'
-          date_end: ''
+          date_end: '2023-12-03'
           description:
         - title: Shift Leader
           company: Dairy Queen
