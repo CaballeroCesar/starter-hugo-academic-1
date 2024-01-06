@@ -60,7 +60,7 @@ sections:
           company_logo: NIU
           location: Dekalb, IL
           date_start: '2021-08-01'
-          date_end: ''
+          date_end: '2023-12-17'
           description: |2-
 
         - title: A.S. with Honors
